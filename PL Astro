@@ -1,0 +1,222 @@
+
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaHebat.png",032. Drama Hebat
+#https://a86c4b70738a4e12b44c7fed76d977a4.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",033. Drama Hotpot
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",034. Filem Mantap
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+
+
+#EXTINF:-1 tvg-id="Astro Ria" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="Malaysia",038. Astro Ria
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+https://WahyuIPTV.short.gy/AstroRiaHD
+
+
+
+#EXTINF:-1 tvg-id="Astro Sensasi" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="Malaysia",042. Astro Sensasi
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/Astro-Sensasi.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Astro Warna" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="Malaysia",036. Astro Warna
+http://www.geocities.ws/wahyuiptv/AstroWarna-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Oh My Ceria!" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png" group-title="Malaysia",042. Oh My Ceria!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+
+
+
+`` MY ``
+#EXTINF:-1 group-logo="https://em-content.zobj.net/source/google/387/flag-malaysia_1f1f2-1f1fe.png",
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co.com/nkHFVKP/8tv.png", 8TV 
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 11) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
+
+
+
+#EXTINF:-1 tvg-id="AstroAwani.my"  tvg-logo="https://i.ibb.co.com/L5xTZgk/asawani.png", AWANI
+#EXTGRP: Malaysia
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://i.ibb.co.com/4KB7QbW/beritartm.png", BERITA RTM
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://i.ibb.co.com/4KB7QbW/beritartm.png", BERITA RTM
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="Dunia Sinema HD"  tvg-logo="https://i.ibb.co.com/JQL4v0H/duniasinema.png", DUNIA SINEMA
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+
+#EXTINF:-1 tvg-id="Okey"  tvg-logo="https://i.ibb.co.com/GVBL3s9/okey.png", OKEY
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+
+#EXTINF:-1 tvg-id="Okey.my"  tvg-logo="https://i.ibb.co.com/GVBL3s9/okey.png", OKEY 5
+#EXTGRP: Malaysia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=90
+
+#EXTINF:-1 tvg-id="Dewan Rakyat"  tvg-logo="https://i.ibb.co.com/89bz1kC/rtmparlimen.png", PARLIMEN RAKYAT
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dewan Rakyat"  tvg-logo="https://i.ibb.co.com/89bz1kC/rtmparlimen.png", PARLIMEN RAKYAT
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+#EXTINF:-1 tvg-id="Dewan Negara"  tvg-logo="https://i.ibb.co.com/89bz1kC/rtmparlimen.png", PARLIMEN NEGARA
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dewan Negara"  tvg-logo="https://i.ibb.co.com/89bz1kC/rtmparlimen.png", PARLIMEN NEGARA
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co.com/nMqF13L/rtmasean.png", RTM ASEAN
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
+#EXTINF:-1 tvg-id="Salam HD"  tvg-logo="https://i.ibb.co.com/HxSsNcP/salam.png", SALAM HD
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 11) ExoPlayerLib/2.11.4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co.com/jGgd4vB/selangortv.png", SELANGOR TV
+#EXTGRP: Malaysia
+
+#EXTINF:-1 tvg-id="Sukan RTM"  tvg-logo="https://i.ibb.co.com/Hpc62Rw/sukanrtm.png", SUKAN RTM
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+
+#EXTINF:-1 tvg-id="Sukan RTM"  tvg-logo="https://i.ibb.co.com/Hpc62Rw/sukanrtm.png", SUKAN RTM
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 tvg-id="TV1"  tvg-logo="https://i.ibb.co.com/pKh4Vwb/tv1.png", TV1
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+
+#EXTINF:-1 tvg-id="TV1"  tvg-logo="https://i.ibb.co.com/pKh4Vwb/tv1.png", TV1u
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=10
+
+#EXTINF:-1 tvg-id="TV2"  tvg-logo="https://i.ibb.co.com/YN1sXRH/tv2.png", TV2
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+8
+
+#EXTINF:-1 tvg-id="TV6"  tvg-logo="https://i.ibb.co.com/nRsr47w/tv6.png", TV6
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+
+#EXTINF:-1 tvg-id="TV6"  tvg-logo="https://i.ibb.co.com/nRsr47w/tv6.png", TV6
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+
+
+#EXTINF:-1 tvg-id="TV9.my"  tvg-logo="https://i.ibb.co.com/VVknd23/tv9.png", TV9
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 11) ExoPlayerLib/2.11.4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 tvg-id=""  tvg-logo="", TVS+
+#EXTGRP: Malaysia
+https://stream2.smg.my/live/tvsplus.m3u8
+
+#EXTINF:-1 tvg-id="TravelandTaste.my"  tvg-logo="", Travel & Taste
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#EXTINF:-1 tvg-id="Drama Hebat.my"  tvg-logo="", Drama Hebat
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#EXTINF:-1 tvg-id="Drama Hotpot.my"  tvg-logo="", Drama Hotpot
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1 tvg-id="Filem Mantap.my"  tvg-logo="", Filem Mantap
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#EXTINF:-1 tvg-id="Lawak Sentral.my"  tvg-logo="", Lawak Sentral
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+#EXTINF:-1 tvg-id=""  tvg-logo="", Oh My Ceria!
+#EXTGRP: Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+
