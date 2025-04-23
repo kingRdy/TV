@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD
+#EXTINF:1 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
@@ -26,4 +26,4 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
 
 
 #EXTINF:-1 tvg-id="etv4" tvg-logo="" group-title="MOVIES",ETV BIOSKOP 05
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298515
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298516
